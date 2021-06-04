@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660772093165",
+    "project_id": "task-todo-a700a",
+    "storage_bucket": "task-todo-a700a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660772093165:android:405474e66072b8c11fa0e4",
+        "android_client_info": {
+          "package_name": "com.utkarsh.task_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660772093165-gngpfd5pcnk3hit5ievqfhs2vnbsb4j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI8-d3fYm62coYOGsbbVwjA5jKATkSCRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660772093165-gngpfd5pcnk3hit5ievqfhs2vnbsb4j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
